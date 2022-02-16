@@ -1,2 +1,2 @@
 # DenemeOlsun
-Hayırlı olsun
+Hayırlı olsun teşekkürler
